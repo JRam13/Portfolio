@@ -6,7 +6,7 @@ Java Composite Design Pattern Demo
 Class Definitions
 -------------------
 
-PortfolioComponent.java - The componet abstract class. A Portfolio can have both Portfolios and Accounts.
+PortfolioComponent.java - The component abstract class. A Portfolio can have both Portfolios and Accounts.
 
 Portfolio - Composite class.
 
