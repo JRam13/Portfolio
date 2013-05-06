@@ -1,7 +1,7 @@
 Portfolio
 =========
 
-Java Composite Design Pattern Demo
+Java Composite Design Pattern Example
 
 Class Definitions
 -------------------
